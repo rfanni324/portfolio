@@ -3,7 +3,7 @@
 # Power BI Projekt
 ### Az adatokól: 
 Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot-ban végeztem. Itt számoltam a KPI-okat és egyeb adatokat is, de volt amivel ki kellett egészítenem Power BI-ban.
-![](assets/gso_bi.jpg)
+![](./assets/gso_bi.jpg)
 # Python Data Analysis Projektek
 ### *Jupyter Notebook használatával*
 ## Újrahasznosítható energia 
@@ -16,4 +16,4 @@ Az adatokat egyetemi tanárom adta.
 
 ![](./assets/sales_query1.jpg)
 
-![](https://github.com/rfanni324/portfolio/blob/main/assets/sales_query2.jpg)
+![](./assets/sales_query2.jpg)
