@@ -4,7 +4,7 @@
 
 # Power BI Projekt
 ### Az adatokól:
-!(https://github.com/rfanni324/portfolio/blob/main/assets/gso_bi.jpg)
+![](https://github.com/rfanni324/portfolio/blob/main/assets/gso_bi.jpg)
 # Python Data Analysis Projektek
 ## Újrahasznosítható energia 
 ### Az adatokól:
