@@ -9,11 +9,12 @@ Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot
 ## [Újrahasznosítható energia](https://github.com/rfanni324/energy-p1)
 ### Az adatokól: 
 Az adatok [kaggle-ről](https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset/data) vannak. Az adatbázis tisztítását pythonban csináltam.
+## Munkamenet:
 ![](./assets/g_f_wind_solar.jpg)
 ## [Fizetések](https://github.com/rfanni324/salaries-p2)
 ### Az adatokól: 
 Az adatokat egyetemi tanárom adta.
-
+## Munkamenet:
 ![](./assets/sales_query1.jpg)
 
 ![](./assets/sales_query2.jpg)
