@@ -8,8 +8,8 @@ Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot
 ### *Jupyter Notebook használatával*
 ## [Újrahasznosítható energia](https://github.com/rfanni324/energy-p1)
 ### Az adatokól: 
-Az adatok [kaggle-ről](https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset/data) vannak. Az adatbázis tisztítását pythonban csináltam.
-### Munkamenet:
+- az adatok [kaggle-ről](https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset/data) vannak
+- 56 oszlop és 2500 sor
 1. **Cél megahatározása:**
 - Fraanciaország és Németország összehasonlítása szél és nap energiához kapcsolódó adatok alapján
 2. **Adatok tisztítása és előkészítése:**
@@ -25,7 +25,9 @@ Az adatok [kaggle-ről](https://www.kaggle.com/datasets/anishvijay/global-renewa
 ![](./assets/g_f_wind_solar.jpg)
 ## [Fizetések](https://github.com/rfanni324/salaries-p2)
 ### Az adatokól: 
-Az adatokat egyetemi tanárom adta.
+- az adatokat egyetemi tanárom adta.
+- 13 oszlop 148654 sor
+- oszlopok: Id(int64), EmployeeName(object), JobTitle(object), BasePay(float64), OvertimePay(float64), OtherPay(float64), Benefits(float64), TotalPay(float64), TotalPayBenefits(float64), Year(int64), Notes(float64), Agency(object), Status(float64)
 ### Munkamenet:
 1. **Cél megahatározása:**
 *2013 és 2014 -ben:*
