@@ -10,7 +10,7 @@ Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot
 ### Az adatokól: 
 - az adatok [kaggle-ről](https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset/data) vannak
 - 56 oszlop és 2500 sor
-### Munkamenet:
+### Munkamenet
 **Cél megahatározása:**
   - Franciaország és Németország összehasonlítása szél és nap energiához kapcsolódó adatok alapján
 
@@ -31,7 +31,7 @@ Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot
 - az adatokat egyetemi tanárom adta.
 - 13 oszlop 148654 sor
 - oszlopok: Id(int64), EmployeeName(object), JobTitle(object), BasePay(float64), OvertimePay(float64), OtherPay(float64), Benefits(float64), TotalPay(float64), TotalPayBenefits(float64), Year(int64), Notes(float64), Agency(object), Status(float64)
-### Munkamenet:
+### Munkamenet
 **Cél megahatározása:**
 *2013 és 2014 -ben:*
   - legmagasabb és legalacsonyabb össz fizetéssek rendelkező dolgozók meghatározása
