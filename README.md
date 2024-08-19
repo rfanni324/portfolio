@@ -6,10 +6,11 @@ Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot
 ![](./assets/gso_bi.jpg)
 # Adatelemzés Projektek
 ### *Jupyter Notebook használatával*
-## [Újrahasznosítható energia](https://github.com/rfanni324/energy-p1)
+# [Újrahasznosítható energia](https://github.com/rfanni324/energy-p1)
 ### Az adatokól: 
 - az adatok [kaggle-ről](https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset/data) vannak
 - 56 oszlop és 2500 sor
+
 1. **Cél megahatározása:**
   - Fraanciaország és Németország összehasonlítása szél és nap energiához kapcsolódó adatok alapján
 
@@ -25,7 +26,7 @@ Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot
   - vizualizációk készítése: diagramok, grafikonok
   - leíró statisztikák: max, min, átlag
 ![](./assets/g_f_wind_solar.jpg)
-## [Fizetések](https://github.com/rfanni324/salaries-p2)
+# [Fizetések](https://github.com/rfanni324/salaries-p2)
 ### Az adatokól: 
 - az adatokat egyetemi tanárom adta.
 - 13 oszlop 148654 sor
