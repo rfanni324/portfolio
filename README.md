@@ -1,10 +1,10 @@
 # Bevezetés
 **Egyetemi kurzusaim során tanult készségeim gyakorlása, illetve tovább fejlesztése céljából készítettem az alábbi projekteket.**
 # [Power BI Projekt](https://github.com/rfanni324/power-bi-project)
-### Az adatokól: 
+### Az adatokról: 
 Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot-ban végeztem. Itt számoltam a KPI-okat és egyeb adatokat is, de volt amivel ki kellett egészítenem Power BI-ban.
 ![](./assets/gso_bi.jpg)
-# Data Analysis Projektek
+# Adatelemzés Projektek
 ### *Jupyter Notebook használatával*
 ## [Újrahasznosítható energia](https://github.com/rfanni324/energy-p1)
 ### Az adatokól: 
