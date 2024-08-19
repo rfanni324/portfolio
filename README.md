@@ -10,9 +10,9 @@ Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot
 ### Az adatokól: 
 - az adatok [kaggle-ről](https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset/data) vannak
 - 56 oszlop és 2500 sor
-
+### Munkamenet:
 **Cél megahatározása:**
-  - Fraanciaország és Németország összehasonlítása szél és nap energiához kapcsolódó adatok alapján
+  - Franciaország és Németország összehasonlítása szél és nap energiához kapcsolódó adatok alapján
 
 **Adatok tisztítása és előkészítése:**
   - adat típusok ellenőrzése
