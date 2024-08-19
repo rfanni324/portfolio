@@ -12,6 +12,7 @@ Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot
 - 56 oszlop és 2500 sor
 1. **Cél megahatározása:**
   - Fraanciaország és Németország összehasonlítása szél és nap energiához kapcsolódó adatok alapján
+
 2. **Adatok tisztítása és előkészítése:**
   - adat típusok ellenőrzése
   - adatbázis leszűkítése
@@ -19,6 +20,7 @@ Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot
   - duplikált és null értékrk ellenörzése/eltávolítása
   - indexek visszaállítása
   - oszlopok átnevezése
+
 3. **Adatok feltárása és elemzése:**
   - vizualizációk készítése: diagramok, grafikonok
   - leíró statisztikák: max, min, átlag
@@ -34,6 +36,7 @@ Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot
   - legmagasabb és legalacsonyabb össz fizetéssek rendelkező dolgozók meghatározása
   - legmagasabb össz fizetéssel, alapérrel, túlóra kompenzációval rendelkező munkakörök meghatározása
   - dolgozók legmagasabb összeadott fizetése, alapére és túlóra kompenzációja munkakörök szerint
+
 2. **Adatok tisztítása és előkészítése:**
   - adat típusok ellenőrzése
   - adatbázis leszűkítése
@@ -41,6 +44,7 @@ Az adatokat egyetemi tanárom adta. Az adatbázis tisztítást excel power pivot
   - duplikált és null értékrk ellenörzése/eltávolítása
   - indexek visszaállítása
   - oszlopok átnevezése
+
 3. **Adatok feltárása és elemzése:**
   - leíró statisztikák: max, min, átlag
   - vizualizációk készítése: diagramok, grafikonok
